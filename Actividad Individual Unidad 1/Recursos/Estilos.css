@@ -1,0 +1,25 @@
+.contmenu
+{
+    float:left;
+}
+
+.contform
+{
+    float:right;
+}
+
+.banner 
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 200px;
+	z-index: -1;
+}
+.form 
+{
+	position: absolute;
+	top: 300;
+}
